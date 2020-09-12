@@ -1,7 +1,7 @@
 
 import discord
 
-INFO = open('c:/Users/jackl/OneDrive/Documents/Coding/INFO.txt','r').read()
+INFO = open('FILE PATH','r').read()
 INFO = INFO.split('/')
 TOKEN = INFO[0]
 GUILD = INFO[1]
