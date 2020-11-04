@@ -1,4 +1,7 @@
 # Ribbet-DiscordBot
 Ribbet - my first discord bot
-- Currently sends welcome and leaving messages, views users, sets status, responds to some messages, disses users, speaks as a roadman
+- Sends welcome and leaving messages
+- Views users
+- Sets status
+- Responds to some messages and commands
 
